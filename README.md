@@ -2,11 +2,17 @@
 # Análise EggNog (COGs e espécies base)
 ### Passo a passo da análise
 0- fazer o upload das bases de dados "banana_emapper.annotations" e "rosa_emapper.annotations"
+
 1- excluir colunas que não tem interesse
+
 2- separar coluna das espécies base em outra a partir do delimitador "|" e excluir a coluna que não tem interesse (coluna com número)
+
 3- trocar nome das colunas (specie e COGs)
+
 4- remover linhas em branco e linhas com erro de ambas as colunas restantes
+
 5- separar as linhas com mais de uma letra para uma letra em cada linha com o comando "Text.ToList([COGs])" e selecionar a opção "expandir para novas linhas" na coluna personalizada gerada
+
 6- excluir coluna que não tem interesse (coluna que tem mais de uma letra em uma linha)
 7- montar o dashboard
 	7.1- gráfico de pizza para saber a quantidade de cada tipo de COG em cada espécie, fez um filtro tirando os valores "S" e "-" pois se referem a funções não identificadas
