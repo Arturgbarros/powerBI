@@ -1,4 +1,3 @@
-# powerBI
 # Análise EggNog (COGs e espécies base)
 ### Passo a passo da análise
 0- fazer o upload das bases de dados "banana_emapper.annotations" e "rosa_emapper.annotations"
@@ -36,3 +35,7 @@
 	7.7- ajustar todos os gráfico com plano de fundo transparente, coloração das legendas de forma que fique visível e mudar coloração de certos gráficos
  
 ### Resultado
+#### Dashboard sem nenhuma seleção
+![image](https://github.com/Tutugb/powerBI/assets/125391314/e3896a3f-376f-454a-a1cc-793babbc3a60)
+#### Dashboard com a seleção
+![image](https://github.com/Tutugb/powerBI/assets/125391314/715f9acf-0c5e-4218-adc4-35bd83f25a3b)
