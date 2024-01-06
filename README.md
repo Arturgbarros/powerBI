@@ -18,11 +18,11 @@
 
 	7.1- gráfico de pizza para saber a quantidade de cada tipo de COG em cada espécie, fez um filtro tirando os valores "S" e "-" pois se referem a funções não identificadas
  
-	7.2- gráfico de área para analisar de quais espécies foram extraidos os dados de função das proteínas e ver se bate com a espécie analisada
+	7.2- gráfico de área para analisar de quais espécies foram extraidos os dados de função das proteínas e ver se bate com a espécie analisada, fez um filtro tirando os valores "-" pois se referem a organismo não identificado ou a função não foi identificada com nenhum organismo do banco de dados
  
-	7.3- cartão para exibir a quantidade numérica de cada uma das classificações de COGs das espécies
+	7.3- cartão para exibir a quantidade numérica de cada uma das classificações de COGs das espécies e quantificar quantas proteínas são codificadas por cada espécie por isso foi considerado os valores "S" e "-"
  
-	7.4- gráfico de barras para melhor ilustração da quantidade numérica do cartão e o fundo transparente para sobrepor sobre o número do cartão
+	7.4- gráfico de barras para melhor ilustração da quantidade numérica do cartão e o fundo transparente para sobrepor sobre o número do cartão, fez um filtro tirando os valores "S" e "-" pois se referem a funções não identificadas
  
 	7.5- relacionar dados das planilhas na aba "exibição de modelos" para quando selecionar em um gráfico ela for gerada nos outros gráficos também assim ser possível uma comparação mais ligeira entre as espécies
  
@@ -36,6 +36,7 @@
  
 ### Resultado
 #### Dashboard sem nenhuma seleção
-![image](https://github.com/Tutugb/powerBI/assets/125391314/e3896a3f-376f-454a-a1cc-793babbc3a60)
+![image](https://github.com/Tutugb/powerBI/assets/125391314/3cf9ba11-7eca-4eb5-b9bf-74e8f241ffc3)
 #### Dashboard com a seleção
-![image](https://github.com/Tutugb/powerBI/assets/125391314/715f9acf-0c5e-4218-adc4-35bd83f25a3b)
+![image](https://github.com/Tutugb/powerBI/assets/125391314/b8853639-1365-473b-9cb7-9aeccf057cd3)
+
