@@ -1,6 +1,6 @@
 # Análise EggNog (COGs e espécies base)
 ### Passo a passo da análise
-0- fazer o upload das bases de dados "banana_emapper.annotations" e "rosa_emapper.annotations"
+0- fazer o upload das bases de dados "banana_emapper.annotations.xlsx" e "rosa_emapper.annotations.xlsx"
 
 1- excluir colunas que não tem interesse
 
