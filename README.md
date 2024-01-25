@@ -43,7 +43,7 @@
 
 # Análise de Venda e lucro 
 ```
-0. fazer o upload das bases de dados "banana_emapper.annotations.xlsx" e "rosa_emapper.annotations.xlsx"
+0. fazer o upload da base de dados "Online Retail.xlsx"
 1. Tratamento dos dados
 
 	2. excluir colunas que não tem interesse
